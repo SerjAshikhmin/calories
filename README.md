@@ -9,7 +9,7 @@ Java Enterprise проект с регистрацией/авторизацие�
 
 ### Стек технологий:
 
-Spring MVC, Spring Data JPA, Spring Security, Spring Security Test, Hibernate ORM, Hibernate Validator, SLF4J, Json Jackson, JSP, JSTL, Apache Tomcat, WebJars, DataTables plugin, PostgreSQL, JUnit, Hamcrest, jQuery, jQuery notification, Bootstrap.
+Spring MVC, Spring Data JPA, Spring Security, Hibernate ORM, Hibernate Validator, SLF4J, Json Jackson, JSP, JSTL, Apache Tomcat, Apache Maven, WebJars, DataTables plugin, PostgreSQL, JUnit, Hamcrest, Spring MVC Test, Spring Security Test, jQuery, jQuery notification, Bootstrap.
 
 ### Инструкция по запуску:
 
